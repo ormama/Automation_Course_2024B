@@ -1,1 +1,1 @@
-# Automation_Course_2024A
+# Automation_Course_2024B
